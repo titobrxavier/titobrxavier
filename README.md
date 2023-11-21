@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end and hardware
 - 🌱 I’m currently learning logic, python, and basic stuff
 - 💞️ I’m looking to collaborate on some low-level projects when I can
-- 📫 How to reach me: timoteobx@gmail.com or my instagram @titobx
+- 📫 How to reach me: timoteobx@gmail.com or my instagram @tito.brxavier
 
 <!---
 titobrxavier/titobrxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
