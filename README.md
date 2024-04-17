@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @titobrxavier
-- 👀 I’m interested in back-end and hardware
-- 🌱 I’m currently learning logic, python, and basic stuff
-- 💞️ I’m looking to collaborate on some low-level projects when I can
+- 👀 I’m interested in learning back-end development
+- 🌱 I’m currently learning programming logic and C
+- 💞️ I’m looking to collaborate on projects and exercises for begginers
 - 📫 How to reach me: timoteobx@gmail.com or my instagram @tito.brxavier
 
 <!---
