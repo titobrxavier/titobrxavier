@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming logic, Java and C.
 - 💞️ I’m looking to collaborate on projects and exercises for begginers.
 - ⚡ Fun fact: I also love history, philosophy, theology and Warhammer 40k for some reason. 
-- 📫 How to reach me: timoteobx@gmail.com or my instagram @tito.brxavier.
+- 📫 How to reach me: timoteobx@gmail.com or my instagram [@tito.brxavier] (https://www.instagram.com/tito.bragancax/).
 - 🔭 I'm currently coursing Computer Science at [Pontificia Universidade do Rio Grande do Sul (PUCRS)](https://portal.pucrs.br/).
 - 🤔 I'm also looking for an IT internship on Porto Alegre, Brazil. 
 <!---
